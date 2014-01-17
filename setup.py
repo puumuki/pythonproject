@@ -4,7 +4,7 @@ from distutils.core import setup
 import glob
 
 setup(
-	name='tuuliviiri',
+	name='',
 	version='1.0',
 	description='',
 	author='Teemu Puukko',
